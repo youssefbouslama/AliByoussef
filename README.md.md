@@ -1,7 +1,5 @@
 ﻿# TP: Cryptosystème de Vignère
-## Groupe  
 - Youssef Bouslama WM
-- Ali Barazzouk WM
 ## Table of content
 - Definition
 - Objectif
